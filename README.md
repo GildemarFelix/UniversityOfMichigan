@@ -1,2 +1,3 @@
-# UniversityOfMichigan
-Apresentação sobre determinados trabalhos realizados no curso Data Structures pela University of Michigan na parceria USP e Coursera.
+# ScriptsDoCurso
+Neste repositório são apresentados scripts os quais não contém funções pela necessidade do curso.
+
